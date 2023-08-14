@@ -1150,9 +1150,9 @@ transform: translateY(-.25rem);
     border-radius: 10.6rem;
   }
 
-  .home__perfil img{
+  /* .home__perfil img{
     width: 300px;
-  }
+  } */
 
   .home__data{
     row-gap: 2.5rem;
